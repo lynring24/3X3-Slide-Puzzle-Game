@@ -1,4 +1,4 @@
->3x3 slide puzzle game using mfc & c++ 
+>3x3 slide puzzle game using mfc & c++ <par>
 >period: 2015.06 (1 week)
 
 The basic idea was to get each part of object tied up with button:id and eventhandler to make the work easy.<dir>
